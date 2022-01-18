@@ -1,0 +1,14 @@
+C:\workspace\Repositório-Desafio\projects\repos\IDE-DIO\IDE-DIO\bin\Debug\netcoreapp3.1\IDE-DIO.exe
+C:\workspace\Repositório-Desafio\projects\repos\IDE-DIO\IDE-DIO\bin\Debug\netcoreapp3.1\IDE-DIO.deps.json
+C:\workspace\Repositório-Desafio\projects\repos\IDE-DIO\IDE-DIO\bin\Debug\netcoreapp3.1\IDE-DIO.runtimeconfig.json
+C:\workspace\Repositório-Desafio\projects\repos\IDE-DIO\IDE-DIO\bin\Debug\netcoreapp3.1\IDE-DIO.runtimeconfig.dev.json
+C:\workspace\Repositório-Desafio\projects\repos\IDE-DIO\IDE-DIO\bin\Debug\netcoreapp3.1\IDE-DIO.dll
+C:\workspace\Repositório-Desafio\projects\repos\IDE-DIO\IDE-DIO\bin\Debug\netcoreapp3.1\IDE-DIO.pdb
+C:\workspace\Repositório-Desafio\projects\repos\IDE-DIO\IDE-DIO\obj\Debug\netcoreapp3.1\IDE-DIO.csproj.AssemblyReference.cache
+C:\workspace\Repositório-Desafio\projects\repos\IDE-DIO\IDE-DIO\obj\Debug\netcoreapp3.1\IDE-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Repositório-Desafio\projects\repos\IDE-DIO\IDE-DIO\obj\Debug\netcoreapp3.1\IDE-DIO.AssemblyInfoInputs.cache
+C:\workspace\Repositório-Desafio\projects\repos\IDE-DIO\IDE-DIO\obj\Debug\netcoreapp3.1\IDE-DIO.AssemblyInfo.cs
+C:\workspace\Repositório-Desafio\projects\repos\IDE-DIO\IDE-DIO\obj\Debug\netcoreapp3.1\IDE-DIO.csproj.CoreCompileInputs.cache
+C:\workspace\Repositório-Desafio\projects\repos\IDE-DIO\IDE-DIO\obj\Debug\netcoreapp3.1\IDE-DIO.dll
+C:\workspace\Repositório-Desafio\projects\repos\IDE-DIO\IDE-DIO\obj\Debug\netcoreapp3.1\IDE-DIO.pdb
+C:\workspace\Repositório-Desafio\projects\repos\IDE-DIO\IDE-DIO\obj\Debug\netcoreapp3.1\IDE-DIO.genruntimeconfig.cache

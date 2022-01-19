@@ -7,6 +7,10 @@ namespace IDE_DIO
     {
         static void Main(string[] args)
         {
+            var people1 = (Pessoas)0;
+            Pessoas people2 = Pessoas.João;
+            Pessoas people3 = (Pessoas)4;
+
             Pessoa person = new Pessoa();
 
             person.Nome = "Diogo";
